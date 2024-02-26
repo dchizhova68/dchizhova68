@@ -24,7 +24,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dchizhova68&repo=QA_GURU_REQRESIN_API_TEST)](https://github.com/dchizhova68/QA_GURU_REQRESIN_API_TEST)
 
 ### :phone:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dchizhova68&repo=QA_GURU_MOBILE_TEST)]([https://github.com/Melnikov-A/Wikipedia_mobile_autotests](https://github.com/dchizhova68/QA_GURU_MOBILE_TEST))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dchizhova68&repo=QA_GURU_MOBILE_TEST)](https://github.com/dchizhova68/QA_GURU_MOBILE_TEST)
 
 
 
